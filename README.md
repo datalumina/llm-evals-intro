@@ -14,3 +14,5 @@ The cost and complexity increases with each level, which dictates how frequently
 
 - [LLM Alignment Example Excel Sheet](https://docs.google.com/spreadsheets/d/1JXPRPMJDGlEsHbhuEDC1wJpVPwQwGKP-6toC5nNe2Io/edit?gid=0#gid=0)
 - [Your AI Product Needs Evals by Hamal Husain](https://hamel.dev/blog/posts/evals/)
+
+## GenAI Accelerator
